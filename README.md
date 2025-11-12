@@ -1,6 +1,8 @@
 **NOTE : This is the robot_description file along with ros2 controller plugin for mecanum wheel robot (for now) by 
 DIN SOPHEAK PANHA (ONEDIN Tech)**
 
+Follow my Facebook page: https://www.facebook.com/share/1Dybey1aSV/
+
 Checkout the expected result in the video shown in the video below : 
 
 https://www.facebook.com/share/v/1WH6h67DMV/
