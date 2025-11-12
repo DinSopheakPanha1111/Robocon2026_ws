@@ -22,8 +22,9 @@ source install/setup.bash
 ros2 launch r2 robot.display.py
 ```
 4. To launch the robot in rviz
+
 In rviz, select fixed frame and change base_footprint to odom 
-5. To control the robot
+6. To control the robot
 ```
 ros2 run r2 keyboard_teleop 
 ```
